@@ -3,7 +3,7 @@ import numpy as np
 import onnxruntime as ort
 
 # Load the ONNX model
-model_path = "model.onnx"
+model_path = "models/onnx/yolo 240-onnx-model/model.onnx"
 session = ort.InferenceSession(model_path)
 
 # Define class names
