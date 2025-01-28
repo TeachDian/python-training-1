@@ -2,4 +2,5 @@ fishlens-modelv1-2/
 classes/
 test/
 train/
+secret/
 val/
