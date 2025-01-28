@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV data
-file_path = "metrics.csv"  # Replace with your CSV file path
+file_path = "results.csv"  # Replace with your CSV file path
 data = pd.read_csv(file_path)
 
 # Plotting function
