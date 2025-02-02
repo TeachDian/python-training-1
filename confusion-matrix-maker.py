@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import ConfusionMatrixDisplay
 
 # Number of classes
-num_classes = 11
+num_classes = 12
 max_sum = 140  # Maximum sum per row/column
 
 # Initialize confusion matrix
